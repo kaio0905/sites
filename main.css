@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+}
+
+.geral{
+    background-color: cornsilk;
+}
+
+.topo{
+    background-color: #1d1c1c;
+    color: white;
+    height: 50px;
+}
+
+.otopo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+}
+
+.titulos{
+    margin-top: 10px;
+}
+
+.aba{
+    height: 50px;
+    background-color: #666666;
+    color: #fff;
+}
+
+.oaba{
+    display: flex;
+    flex-direction: row;
+    margin-left: 43%;
+}
+
+.inicio, .destino, .contato{
+    margin-top: 14px;
+    color: #fff;
+}
+
+.inicio{
+    margin-right: 20px;
+}
+
+.destino{
+    margin-right: 20px;
+}
+
+.locais{
+    display: flex;
+    flex-direction: row;
+    margin-top: 27px;
+}
+
+.paris{
+    margin-left: 20%;
+    background-color: #fff;
+}
+
+.parisimg{
+    height: 170px;
+}
+
+.toquio{
+    margin-left: 30px;
+    background-color: #fff;
+}
+
+.toquioimg{
+    height: 170px;
+}
+
+.nova{
+    margin-left: 30px;
+    background-color: #fff;
+}
+
+.novaimg{
+    height: 170px;
+}
+
+.oslink{
+    color: black;
+    font-size: x-large;
+}
+
+.baixo{
+    background-color: #1d1c1c;
+    color: #fff;
+    margin-top: 41vh;
+}
+
+.obaixo{
+    display: flex;
+    justify-content: center;
+}
+
+.locaisdois{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 21px;
+}
+
+.adiv{
+    width: 400px;
+    background-color: #fff;
+}
+
+.imgdois{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.baixodois{
+    background-color: #1d1c1c;
+    color: #fff;
+    margin-top: 27vh;
+}
